@@ -53,6 +53,9 @@ Interactive Features
 - Mode Category Slicer
 - Track Genre Slicer
 
+<img width="1327" height="796" alt="image" src="https://github.com/user-attachments/assets/4fd4142b-0ef3-4735-93ef-0d1835865627" />
+
+
   ##  Key Learning Outcomes
   - Practised data cleaning and preprocessing using Python.
   - Strengthened SQL querying and analytical skills.
